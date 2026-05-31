@@ -10,7 +10,8 @@ All proof of my TryHackMe journey. Adding SS as i complete more rooms.
 
 
 ### Completed Rooms
-<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/f980efcf-83cf-432e-b49d-9b7e3b6d771f" />
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/26155a1d-c8b1-4220-af8d-12a359fdd5ab" />
+
 
 
 
