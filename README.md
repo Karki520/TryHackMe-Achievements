@@ -4,7 +4,7 @@ Hey! I'm Pooja Karki aka poojakarki2207
 Just started my cybersecurity journey and documenting everything here.
 
 **My Profile:** https://tryhackme.com/p/poojakarki2207
-**Level:** [0x2] APPRENTICE | SOC L1 Alert Triage Done
+**Level:** [0x3] PATHFINDER 
 
 ---
 
@@ -12,8 +12,8 @@ Just started my cybersecurity journey and documenting everything here.
 - **Rank:** Top 50%
 - **Streak:** 8 days and counting 
 - **Badges:** 4 earned
-- **Rooms Done:** 8 completed
-- **Total Points**: 451
+- **Rooms Done:** 9 completed
+- **Total Points**: 523
 
 ---
 
@@ -75,6 +75,10 @@ Identify common social engineering tactics used in phishing
 Analyze red flags contained within phishing emails
 Detect link manipulation and tracking pixels
 Deconstruct credential harvesting and attachment manipulation
+
+
+**9. Network traffic analysis basics**
+learned basics of traffic analysis
 
 
 ---
