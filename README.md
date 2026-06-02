@@ -9,11 +9,11 @@ Just started my cybersecurity journey and documenting everything here.
 ---
 
 ### Quick Stats
-- **Rank:** Top 55%
-- **Streak:** 7 days and counting 
+- **Rank:** Top 50%
+- **Streak:** 8 days and counting 
 - **Badges:** 4 earned
-- **Rooms Done:** 7 completed
-- **Total Points**: 395
+- **Rooms Done:** 8 completed
+- **Total Points**: 451
 
 ---
 
@@ -70,6 +70,12 @@ Completed SOC L1 Alert Triage room. Learned to triage 3 alerts: FP vs TP logic, 
 **7. Phishing Analysis Fundamentals**
 Learned Phishing types + Email anlysis.
 
+**8. Phishing Emails in Action**
+Identify common social engineering tactics used in phishing
+Analyze red flags contained within phishing emails
+Detect link manipulation and tracking pixels
+Deconstruct credential harvesting and attachment manipulation
+
 
 ---
 
@@ -81,4 +87,4 @@ If you're also starting, feel free to connect!
 Will update this as I learn more stuff.
 
 ---
-Last updated: June 1, 2026
+Last updated: June 2, 2026
