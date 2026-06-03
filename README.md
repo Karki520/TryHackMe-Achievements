@@ -78,7 +78,7 @@ Deconstruct credential harvesting and attachment manipulation
 
 
 **9. Network traffic analysis basics**
-learned basics of traffic analysis
+learned basics of traffic analysis 
 
 
 ---
@@ -91,4 +91,4 @@ If you're also starting, feel free to connect!
 Will update this as I learn more stuff.
 
 ---
-Last updated: June 2, 2026
+Last updated: June 3, 2026
